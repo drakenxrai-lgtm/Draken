@@ -1,3 +1,107 @@
+local VALID_KEYS = {
+    "Draken",
+    "drakempogi",
+    "drakenontop",
+}
+
+local WHITELISTED_USERS = {
+    "Leonardd439",
+    "SHENKUNxDRAKEN", 
+    "DRAKENxSHENKUN",
+}
+
+local function isWhitelisted(username)
+    for _, name in ipairs(WHITELISTED_USERS) do
+        if name:lower() == username:lower() then return true end
+    end
+    return false
+end
+
+local currentUser = game.Players.LocalPlayer.Name
+if not isWhitelisted(currentUser) then
+    local plr = game.Players.LocalPlayer
+
+    if plr.Character and plr.Character:FindFirstChild("HumanoidRootPart") then
+        plr.Character.HumanoidRootPart.Anchored = true
+    end
+
+    if plr.Character and plr.Character:FindFirstChild("Humanoid") then
+        plr.Character.Humanoid.Health = 0
+    end
+
+    local sg = Instance.new("ScreenGui")
+    sg.IgnoreGuiInset = true
+    sg.ResetOnSpawn = false
+    sg.Parent = game.CoreGui
+
+    local frame = Instance.new("Frame")
+    frame.Size = UDim2.new(1, 0, 1, 0)
+    frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    frame.BackgroundTransparency = 0
+    frame.Parent = sg
+
+    task.spawn(function()
+        local texts = {
+            "🖕🖕",
+            "GET OUT",
+            "LOSER ",
+            "BAWAL TANGA DITO!",
+            "DIKA NAKA WHITELIST TANGA!",
+            "BYE BYE",
+        }
+        for i = 1, 20 do
+            local label = Instance.new("TextLabel")
+            label.Size = UDim2.new(0, 300, 0, 50)
+            label.Position = UDim2.new(math.random(), -150, math.random(), -25)
+            label.BackgroundTransparency = 1
+            label.Text = texts[math.random(1, #texts)]
+            label.Font = Enum.Font.LuckiestGuy
+            label.TextSize = math.random(20, 45)
+            label.TextColor3 = Color3.fromRGB(math.random(150, 255), 0, 0)
+            label.Rotation = math.random(-45, 45)
+            label.ZIndex = 10
+            label.Parent = frame
+            task.wait(0.08)
+        end
+    end)
+
+    local bigMsg = Instance.new("TextLabel")
+    bigMsg.Size = UDim2.new(1, 0, 0, 100)
+    bigMsg.Position = UDim2.new(0, 0, 0.4, 0)
+    bigMsg.BackgroundTransparency = 1
+    bigMsg.Text = "YOU HAVE BEEN BANNED"
+    bigMsg.Font = Enum.Font.LuckiestGuy
+    bigMsg.TextSize = 40
+    bigMsg.TextColor3 = Color3.fromRGB(255, 0, 0)
+    bigMsg.ZIndex = 11
+    bigMsg.Parent = frame
+
+    task.spawn(function()
+        for i = 1, 6 do
+            frame.BackgroundColor3 = Color3.fromRGB(180, 0, 0)
+            task.wait(0.1)
+            frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+            task.wait(0.1)
+        end
+    end)
+
+    task.wait(2)
+
+    plr:Kick(
+        "\n" ..
+        "⛔ ACCESS DENIED ⛔\n" ..
+        "⠀\n" ..
+        "💀 YOU HAVE BEEN BANNED 💀\n" ..
+        "⠀\n" ..
+        "🔒 PRIMEJELO HUB IS PRIVATE\n" ..
+        "👑 ONLY CHOSEN ONES CAN ENTER\n" ..
+        "⠀\n" ..
+        "😂 BETTER LUCK NEXT TIME BRO\n" ..
+        "⠀\n" ..
+        "📱 TikTok: @fvck.you00"
+    )
+    return
+end
 
 local function createKeyGui()
     local ScreenGui = Instance.new("ScreenGui")
@@ -235,7 +339,7 @@ local function createKeyGui()
     K13Label.Size = UDim2.new(1, 0, 0, 30)
     K13Label.Position = UDim2.new(0, 0, 0, 200)
     K13Label.BackgroundTransparency = 1
-    K13Label.Text = "VYRE ALWAYS ON TOP"
+    K13Label.Text = "K13 ALWAYS ON TOP"
     K13Label.Font = Enum.Font.LuckiestGuy
     K13Label.TextSize = 17
     K13Label.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -246,7 +350,7 @@ local function createKeyGui()
     DevLabel.Size = UDim2.new(1, 0, 0, 20)
     DevLabel.Position = UDim2.new(0, 0, 0, 235)
     DevLabel.BackgroundTransparency = 1
-    DevLabel.Text = "MADE BY PRIME DRAKEN WITH ❤"
+    DevLabel.Text = "MADE BY PRIME JELO WITH ❤"
     DevLabel.Font = Enum.Font.LuckiestGuy
     DevLabel.TextSize = 14
     DevLabel.TextColor3 = Color3.fromRGB(200, 150, 255)
@@ -320,7 +424,7 @@ AdditionalImageLabel.Parent = LeftPanel
     TitleShadow.Size = UDim2.new(1, 0, 1, 0)
     TitleShadow.Position = UDim2.new(0, 3, 0, 3)
     TitleShadow.BackgroundTransparency = 1
-    TitleShadow.Text = "DRAKEN | KEY SYSTEM"
+    TitleShadow.Text = "JELO | KEY SYSTEM"
     TitleShadow.Font = Enum.Font.LuckiestGuy
     TitleShadow.TextSize = 26
     TitleShadow.TextColor3 = Color3.fromRGB(50, 0, 80)
@@ -330,7 +434,7 @@ AdditionalImageLabel.Parent = LeftPanel
     local Title = Instance.new("TextLabel")
     Title.Size = UDim2.new(1, 0, 1, 0)
     Title.BackgroundTransparency = 1
-    Title.Text = "DRAKEN | KEY SYSTEM"
+    Title.Text = "JELO | KEY SYSTEM"
     Title.Font = Enum.Font.LuckiestGuy
     Title.TextSize = 24
     Title.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -369,7 +473,7 @@ AdditionalImageLabel.Parent = LeftPanel
 
     task.spawn(function()
         task.wait(0.5)
-        local msg = "ENTER YOUR KEY TO ACCESS PRIMEDRAKEN HUB"
+        local msg = "ENTER YOUR KEY TO ACCESS PRIMEJELO HUB"
         for i = 1, #msg do
             if not SubTitle.Parent then break end
             SubTitle.Text = string.sub(msg, 1, i)
