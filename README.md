@@ -1,5 +1,5 @@
 local VALID_KEYS = {
-    "Pogi",
+    "Drakenpogi",
 }
 
 local WHITELISTED_USERS = {
