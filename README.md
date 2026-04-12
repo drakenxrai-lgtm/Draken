@@ -116,7 +116,7 @@ end
 
 local function createKeyGui()
     local ScreenGui = Instance.new("ScreenGui")
-    ScreenGui.Name = "PrimeDrakenkeysystem"
+    ScreenGui.Name = "PrimeJelokeysystem"
     ScreenGui.ResetOnSpawn = false
     ScreenGui.DisplayOrder = 99999
     ScreenGui.IgnoreGuiInset = true
@@ -171,7 +171,7 @@ local function createKeyGui()
     BotGlowGrad.Parent = BotGlow
 
     task.spawn(function()
-        local chars = {"0","1","VY","R","E","@","#","$","%","^","&","*","!","?","<",">","~","|"}
+        local chars = {"0","1","K","1","3","@","#","$","%","^","&","*","!","?","<",">","~","|"}
         for col = 1, 45 do
             task.spawn(function()
                 task.wait(math.random() * 3)
@@ -347,15 +347,15 @@ local function createKeyGui()
     Logo.Parent = LogoContainer
 
     local K13Label = Instance.new("TextLabel")
-    VYRELabel.Size = UDim2.new(1, 0, 0, 30)
-    VYRELabel.Position = UDim2.new(0, 0, 0, 200)
-    VYRELabel.BackgroundTransparency = 1
-    VYRELabel.Text = "VYRE ALWAYS ON TOP"
-    VYRELabel.Font = Enum.Font.LuckiestGuy
-    VYRELabel.TextSize = 17
-    VYRELabel.TextColor3 = Color3.fromRGB(255, 255, 255)
-    VYRELabel.ZIndex = 7
-    VYRELabel.Parent = LeftPanel
+    K13Label.Size = UDim2.new(1, 0, 0, 30)
+    K13Label.Position = UDim2.new(0, 0, 0, 200)
+    K13Label.BackgroundTransparency = 1
+    K13Label.Text = "VYRE ALWAYS ON TOP"
+    K13Label.Font = Enum.Font.LuckiestGuy
+    K13Label.TextSize = 17
+    K13Label.TextColor3 = Color3.fromRGB(255, 255, 255)
+    K13Label.ZIndex = 7
+    K13Label.Parent = LeftPanel
 
     local DevLabel = Instance.new("TextLabel")
     DevLabel.Size = UDim2.new(1, 0, 0, 20)
@@ -445,7 +445,7 @@ AdditionalImageLabel.Parent = LeftPanel
     local Title = Instance.new("TextLabel")
     Title.Size = UDim2.new(1, 0, 1, 0)
     Title.BackgroundTransparency = 1
-    Title.Text = "DRAKEN | KEY SYSTEM"
+    Title.Text = "JELO | KEY SYSTEM"
     Title.Font = Enum.Font.LuckiestGuy
     Title.TextSize = 24
     Title.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -484,7 +484,7 @@ AdditionalImageLabel.Parent = LeftPanel
 
     task.spawn(function()
         task.wait(0.5)
-        local msg = "ENTER YOUR KEY TO ACCESS PRIMEDRAKEN HUB"
+        local msg = "ENTER YOUR KEY TO ACCESS PRIMEJELO HUB"
         for i = 1, #msg do
             if not SubTitle.Parent then break end
             SubTitle.Text = string.sub(msg, 1, i)
