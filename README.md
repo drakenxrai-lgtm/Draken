@@ -1,7 +1,7 @@
 local VALID_KEYS = {
     "Draken",
     "drakempogi",
-    "drakenontop", 
+    "drakenontop",
 }
 
 local WHITELISTED_USERS = {
@@ -18,7 +18,7 @@ local WHITELISTED_USERS = {
     "HerMajesty_67",
     "Kaizenn2ndAlt",
     "SHENKUNxDRAKEN", 
-    "DRAKENxSHENKUN", 
+    "DRAKENxSHENKUN",
 }
 
 local function isWhitelisted(username)
