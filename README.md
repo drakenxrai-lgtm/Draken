@@ -19,6 +19,7 @@ local WHITELISTED_USERS = {
     "Kaizenn2ndAlt",
     "SHENKUNxDRAKEN", 
     "DRAKENxSHENKUN",
+    "Peae76",
 }
 
 local function isWhitelisted(username)
@@ -109,7 +110,7 @@ if not isWhitelisted(currentUser) then
         "⠀\n" ..
         "😂 BETTER LUCK NEXT TIME BRO\n" ..
         "⠀\n" ..
-        "📱 TikTok: @fvck.you00"
+        "📱 TikTok: @shenkun2"
     )
     return
 end
