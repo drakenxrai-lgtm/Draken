@@ -17,6 +17,7 @@ local WHITELISTED_USERS = {
     "Pogi_mojelosea",
     "HerMajesty_67",
     "Kaizenn2ndAlt",
+    "SHENKUNxDRAKEN", 
 }
 
 local function isWhitelisted(username)
