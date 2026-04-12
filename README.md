@@ -1,25 +1,12 @@
 local VALID_KEYS = {
-    "Draken",
-    "drakempogi",
-    "drakenontop",
+    "Pogi",
 }
 
 local WHITELISTED_USERS = {
-    "Loneycat1113",
-    "Jhannabaltero15",
-    "Princeforsale1",
-    "OXEN_CANON",
-    "KaizeTheGreat32",
+    "SHENKUNxDRAKEN",
+    " DRAKENxSHENKUN",
     "scythe2464",
-    "cOOlkid923400",
-    "gamestyep25",
     "Leonardd439",
-    "Pogi_mojelosea",
-    "HerMajesty_67",
-    "Kaizenn2ndAlt",
-    "SHENKUNxDRAKEN", 
-    "DRAKENxSHENKUN",
-    "Peae76",
 }
 
 local function isWhitelisted(username)
