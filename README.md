@@ -1,1 +1,797 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local p={"\077\084\109\111\047\056\117\075","\069\056\117\111\097\056\103\061";"\079\109\066\057\097\081\073\048\104\102\061\061","\047\070\117\055\047\113\102\083\073\087\089\084\117\056\080\085","\078\056\080\113\047\086\120\050\117\109\102\084\080\076\053\081\098\052\061\061";"\069\084\080\100\097\055\080\100\099\079\073\111\099\081\120\048","\047\086\080\090\047\110\048\085\068\110\073\075\118\056\109\090\068\049\049\061","\097\113\043\061";"\099\084\111\111\069\089\061\061","\069\081\080\116\097\076\077\048";"\079\109\066\112\099\103\061\061";"\097\113\108\061","\098\089\061\061","\080\056\110\116\069\056\080\105\043\108\073\048\047\056\080\087\047\056\080\086\043\052\061\061";"\099\112\048\100\077\052\061\061";"\069\118\077\120\104\055\110\074\052\049\047\122\080\055\077\108\047\081\100\061";"\049\113\054\112\055\049\110\085\080\080\073\109\073\056\043\100\099\084\099\061";"\073\056\108\105\049\087\047\073\077\074\080\079\047\056\075\109\073\089\061\061";"\097\109\047\099\068\108\083\105\099\055\103\076\055\081\080\076","\069\055\110\085\069\048\054\120\117\081\089\076\068\108\116\098";"\077\084\110\116\077\052\061\061";"\078\074\049\065\049\080\080\080\080\118\054\055\118\100\068\083","\077\081\120\115\097\076\043\061";"\080\074\054\103\047\056\073\113\077\076\073\075\069\109\073\078";"\097\055\110\100\071\102\061\061","\099\084\066\067\099\084\110\100","\047\056\066\067\047\055\109\121\077\079\043\061","\071\112\048\087\118\113\102\084\117\080\077\115\099\048\110\055\118\109\086\105";"\047\056\110\121\097\056\049\061","\098\121\089\048\077\107\075\057\098\089\061\061","\078\070\073\100\069\108\047\048\047\102\061\061";"\104\056\109\103\099\084\077\115\069\048\053\055\118\110\117\090\104\079\089\061";"\077\048\049\061","\069\109\073\100","\047\056\066\074\047\070\054\057\097\081\069\061","\077\079\054\105\097\076\043\061";"\069\081\110\067\077\056\066\116","","\097\056\066\111\077\070\117\100\069\081\048\067\077\103\061\061","\117\110\077\071\068\049\120\108\068\074\053\112\117\055\073\113";"\079\109\066\116\077\079\073\111\047\056\110\121\097\056\049\061","\047\055\065\103\099\055\117\085","\068\119\077\073\048\113\083\118\069\111\104\112\043\048\088\078\120\073\090\097\110\109\051\053\070\050\084\103\070\067\102\075\069\087\084\084\118\090\108\111\076\053\107\067\043\088\117\048\053\055\043\054\050\082\111\048\107\118\114\068\105\043\111\081\101\100\105\112\050\089\057\051\097\079\070\075\105\102\068\088\054\121\055\069\120\068\050\111\114\102\080\072\110\053\106\109\108\110\104\070\057\076\115\117\104\071\097\121\047\053\076\118\100\057\085\100\072\090\113\088\050\089\061\061";"\097\056\080\067","\069\076\073\105\071\055\065\112","\077\076\117\109\099\089\061\061","\079\109\066\082\077\055\083\061"}for o,K in ipairs({{114080-114079,-642850+642897},{150143-150142,140970+-140961},{862416+-862406;1008710+-1008663}})do while K[790890-790889]<K[-45172+45174]do p[K[679253+-679252]],p[K[645200-645198]],K[-319734-(-319735)],K[-155753-(-155755)]=p[K[301021-301019]],p[K[458252-458251]],K[712799-712798]+(353092-353091),K[-666984-(-666986)]-(-257529-(-257530))end end local function o(o)return p[o-(-400463-(-434147))]end do local o=table.concat local K=string.len local n=table.insert local e=math.floor local B=type local g=string.sub local z={x=227344+-227295,A=-373678+373735,N=-527617+527635,l=659661-659657;X=-513876-(-513938),["\043"]=987461+-987453,q=-292431+292434;S=194900+-194844;["\057"]=345405-345364,["\047"]=-559319-(-559348);["\055"]=-596077+596099,j=298231+-298173;Z=57205-57190,w=-407787+407846;M=263581-263556,["\053"]=-416847-(-416848),F=236852+-236845,a=-948406-(-948433),v=-814750-(-814769);c=-827871-(-827895),R=-57308+57352,["\056"]=566899-566893;D=519142+-519130;s=-34802+34849;L=397599+-397544,["\054"]=-333091+333100,C=-191898+191944;z=-1022428+1022470,g=-225126+225174,n=423568+-423563,p=-457298+457337;P=997267-997246;V=1044176-1044140;G=208846-208820,O=386147+-386124,["\048"]=-937612-(-937649),["\051"]=945215+-945184,o=-1043295-(-1043328);Q=548229-548191;y=74471-74437;["\049"]=-445517-(-445537);K=919160+-919120,m=-821583-(-821636),U=-23002-(-23045);d=786543-786491;H=494557+-494494;["\050"]=199443-199432,T=180592-180538,i=-29772+29822;E=-730651+730679,B=-534989+535050,I=-607080+607097,Y=995186-995154,r=-819316-(-819326),h=-291776-(-291806);["\052"]=-764160+764176,J=-367875-(-367926),b=844084-844070;W=-940137-(-940172);t=514480-514435;u=-193926-(-193939);e=-400079+400139,f=-454877+454877,k=-402661-(-402663)}local O=p local x=string.char for p=176594+-176593,#O,-309796-(-309797)do local k=O[p]if B(k)=="\115\116\114\105\110\103"then local B=K(k)local P={}local Z=-700614-(-700615)local u=-910775+910775 local v=-900741-(-900741)while Z<=B do local p=g(k,Z,Z)local o=z[p]if o then u=u+o*(-846716+846780)^((61052+-61049)-v)v=v+(-720418+720419)if v==381858+-381854 then v=-133536-(-133536)local p=e(u/(-938514-(-1004050)))local o=e((u%(-417029+482565))/(-912859-(-913115)))local K=u%(-1009247-(-1009503))n(P,x(p,o,K))u=-431642-(-431642)end elseif p=="\061"then n(P,x(e(u/(-708017+773553))))if Z>=B or g(k,Z+(858145-858144),Z+(-895133+895134))~="\061"then n(P,x(e((u%(965413+-899877))/(-975166+975422))))end break end Z=Z+(-444933+444934)end O[p]=o(P)end end end return(function(p,n,e,B,g,z,O,r,j,T,J,h,k,U,d,v,u,x,W,Z,P,K)d,K,T,j,U,P,x,h,k,r,W,u,v,J,Z=function(p,o)local n=u(o)local e=function(e)return K(p,{e},o,n)end return e end,function(K,e,B,g)local A,S,v,F,f,q,a,X,N,C,c,i,l,Q,G,k,L,s,R,I,V,O,Y,D,w,t,m,H,E,Z,b,M,u,j while K do if K<681115+9323621 then if K<4435714-677666 then if K<1699615-63998 then if K<1614366-585029 then if K<731651-133441 then if K<-690590+1034894 then if K<697086+-467496 then Z=x[B[-788504+788506]]u=x[B[-789204-(-789207)]]K=255661+13229909 k=Z==u O=k else u=x[B[-707729-(-707738)]]v=u u=96040+-96039 K={}k=K j=u u=-953837+953837 K=-617312+16533797 Z=826178-826177 t=j<u u=Z-j end else Y=h(Y)I=h(I)F=h(F)K=16246349-(-180203)A=h(A)R=nil c=h(c)w=h(w)end else if K<97671-(-528573)then k=x[B[1002696-1002695]]O=#k k=550048+-550048 K=O==k K=K and 12459153-157794 or 724128+4491049 else V=q==N K=12728205-440460 i=V end end else if K<940397-(-589011)then if K<517802+650670 then O=o(991886+-958185)K=p[O]k=o(-4161+37866)O=p[k]k=o(-8954+42659)p[k]=K K=-226275+5948771 k=o(568851-535150)p[k]=O k=x[B[-376105-(-376106)]]Z=k()else K=348640+134074 x[Z]=O end else if K<794107-(-784522)then l=o(840777-807076)K=p[l]l=o(900450-866745)p[l]=K K=909462+14447281 else I=P()Y=9820+-9565 A=o(231751-198033)x[I]=i c=-557436+557536 O=p[A]A=o(-104864+138594)K=O[A]A=684334-684333 R=-543493-(-543495)O=K(A,c)f=953991+-943991 A=P()x[A]=O K=x[S]c=301425-301425 w=-753608-(-753609)O=K(c,Y)c=P()x[c]=O Y=549964+-549963 K=x[S]F=x[A]O=K(Y,F)Y=P()x[Y]=O O=x[S]F=O(w,R)O=-769925-(-769926)R=o(-270135+303841)K=F==O D=o(684062-650334)F=P()H=710123-710123 O=o(830871-797148)x[F]=K X=p[D]M=x[S]m={M(H,f)}D=X(n(m))X=o(576647+-542941)K=o(321307-287615)Q=D..X K=a[K]w=R..Q R=o(69060+-35365)K=K(a,O,w)w=P()Q=d(760564+2917602,{S;I,G,u,Z;E;F,w,A;Y,c;L})x[w]=K O=p[R]R={O(Q)}K={n(R)}R=K K=x[F]K=K and-1018187+4128836 or 15880508-576854 end end end else if K<-509604+3656853 then if K<3516904-465541 then if K<432761+1995276 then if K<-935630+3117329 then G=o(574361-540673)L=p[G]K=12527005-794799 O=L else K=320385+5402111 end else l=-224780-(-224780)E=#b a=E==l K=a and 14693217-(-496977)or 6198624-757121 end else if K<3611659-508782 then K=p[o(-630839+664550)]O={}else Q=x[Z]O=Q K=Q and 544438+7376540 or 781315+401816 end end else if K<837393+2642644 then if K<-7731+3239854 then G=G+q b=not N s=G<=L s=b and s b=G>=L b=N and b s=b or s b=-184847+11714581 K=s and b s=287752+4103459 K=K or s else k=o(513682+-479953)u=-138575-(-138575)K=p[k]Z=x[B[67545-67537]]k=K(Z,u)K=937055-616656 end else if K<2654197-(-952860)then l=137183+-137177 K=x[S]C=481108-481107 V=K(C,l)l=o(639008+-605307)K=o(-440255+473956)p[K]=V C=p[l]l=898527+-898525 K=C>l K=K and 11328353-650022 or-347973+1920411 else Z=x[B[-801579+801580]]v=249012-249011 j=781651+-781649 u=Z(v,j)Z=18176+-18175 k=u==Z K=k and-853188+14338758 or 2081+59751 O=k end end end end else if K<5353264-(-493883)then if K<4391099-(-915711)then if K<5206573-13023 then if K<-898500+5346424 then if K<5270531-902260 then s=717069+-717069 Z=u K=x[B[-195107+195108]]L=594941+-594686 S=K(s,L)K=15141936-(-774549)k[Z]=S Z=nil else t=nil S=nil v=nil K=10436110-1020560 end else K=true K=K and 15037252-(-305369)or-280648+12441586 end else if K<587140+4693074 then u=o(275667+-241945)K=p[o(-696714-(-730431))]Z=p[u]u=o(548769+-515066)k=Z[u]u=x[B[-132886+132887]]Z={k(u)}O={n(Z)}else u=x[B[590777+-590771]]Z=u==k K=-401280+10393813 O=Z end end else if K<-981979+6698708 then if K<5429903-(-199846)then l=#b E=-190215+190216 a=v(E,l)E=t(b,a)c=318617+-318616 a=nil l=x[N]K=618599+2228899 A=E-c I=S(A)l[E]=I E=nil else E=E+I c=not A a=E<=l a=c and a c=E>=l c=A and c a=c or a c=7493271-539872 K=a and c a=15494872-163743 K=K or a end else if K<-809031+6607963 then K=true K=K and 99507+932668 or 877956+9981006 else v=P()u=o(-131995+165686)Z=P()k=e K=true x[Z]=K O=p[u]u=o(-594321+628015)S=o(455786-422091)j=P()K=O[u]u=P()x[u]=K K=W(14998516-(-112511),{})s=T(286762+13596339,{j})x[v]=K K=false x[j]=K t=p[S]S=t(s)O=S K=S and-229758+9526540 or-265358+11442947 end end end else if K<6759197-(-950581)then if K<565946+6385851 then if K<-774730+6886098 then if K<5483763-(-514104)then K={}S=472912+-472657 s=o(-465697-(-499388))x[B[542216-542214]]=K O=x[B[-92612+92615]]v=O j=35184372368388-279556 G=1030381+-1030380 O=Z%j x[B[-935104+935108]]=O t=Z%S S=-426906-(-426908)K=2712493-(-486803)j=t+S q=G x[B[850959+-850954]]=j S=p[s]s=o(1019872-986182)t=S[s]S=t(k)G=219524+-219524 s=536583+-536582 t=o(-615927+649658)N=q<G G=s-q u[Z]=t t=1005909-1005702 L=S else O=604411+8610160 Z=o(-203531+237228)u=10909812-606365 k=Z^u K=O-k O=o(-747608+781334)k=K K=O/k O={K}K=p[o(275955-242257)]end else K=-25829+7448043 m=484456-484454 M=R[m]m=x[w]D=M==m Q=D end else if K<510466+6552326 then a=E K=474590+5173604 c=a b[a]=c a=nil else K=X K=-197394+1380525 O=Q end end else if K<10072906-752569 then if K<9937568-731590 then m=-151062-(-151063)M=R[m]X=K m=false D=M==m K=D and-1031461+7683173 or 7735112-312898 Q=D else t=x[j]K=-323891+11501480 O=t end else if K<-875064+10338905 then K=p[o(-1010752+1044465)]O={Z}else K=17228238-706292 k=nil x[B[-130336-(-130341)]]=O end end end end end else if K<13693114-17246 then if K<11852527-893 then if K<11837177-560652 then if K<685151+10225311 then if K<-154706+10920767 then if K<11269136-845422 then V=x[Z]i=V K=V and-365557-(-1003088)or 12216775-(-70970)else C=o(897355+-863627)K=p[C]I=o(-746990+780695)l=p[I]C=K(l)K=o(-233488-(-267189))p[K]=C K=14378534-(-978209)end else K=p[o(803689-769974)]O={}end else if K<10552178-(-590368)then K=true K=K and 603242+2932363 or 314913+2783546 else s=o(-9985-(-43707))S=o(-241337-(-275055))t=O O=p[S]S=o(570815+-537085)K=O[S]S=P()x[S]=K O=p[s]N=o(-4694-(-38416))s=o(-123158+156877)K=O[s]s=K q=p[N]L=q G=K K=q and 15658345-(-287410)or 12537121-1023011 end end else if K<12531743-1012976 then if K<911585+10597543 then O=16831347-664775 u=5638414-(-457252)Z=o(-251360-(-285081))k=Z^u K=O-k k=K O=o(-402053-(-435780))K=O/k O={K}K=p[o(-324258-(-357968))]else K=G O=L K=L and 11910834-178628 or 160390+1806098 end else if K<863039+10782872 then C=o(335327-301636)s=G V=p[C]C=o(301668-267960)i=V[C]V=i(k,s)i=x[B[-844902+844908]]K=887313+2311983 s=nil C=i()E=V+C a=E+t E=984378+-984122 C=155417+-155416 b=a%E t=b E=u[Z]V=t+C i=v[V]a=E..i u[Z]=a else L=P()x[L]=O a=r(10631478-(-748215),{})G=-18553+18556 q=266153-266088 K=x[S]O=K(G,q)G=P()K=969266-969266 q=K x[G]=O K=565783+-565783 b=o(-328644+362339)O=p[b]N=K b={O(a)}K={n(b)}b=K O=-724746-(-724748)K=b[O]C=o(53960-20232)O=o(405825-372105)a=K K=p[O]E=x[u]V=p[C]C=V(a)V=o(-40471-(-74194))i=E(C,V)E={i()}O=K(n(E))E=P()x[E]=O i=x[G]O=-981979-(-981980)K=664725+15761827 V=i i=262918-262917 C=i i=686351-686351 l=C<i i=O-C end end end else if K<11316544-(-980192)then if K<-438235+12528570 then if K<964760+11054912 then if K<10938812-(-1003199)then H=-108571+108572 x[Z]=Q m=x[Y]M=m+H D=R[M]X=q+D D=-669011+669267 K=X%D M=x[c]q=K K=1508059-1025345 D=N+M M=-417138+417394 X=D%M N=X else D=-519430-(-519431)K=11264670-(-672457)X=R[D]Q=X end else O=o(-843861+877581)K=p[O]s=o(-773470+807165)k=x[B[-661324+661328]]v=o(-497591+531319)u=p[v]L=r(-96334+6101469,{})S=p[s]s={S(L)}S=-84562-(-84564)t={n(s)}j=t[S]v=u(j)u=o(-615284+649007)Z=k(v,u)k={Z()}O=K(n(k))Z=x[B[493194+-493189]]K=Z and-327442+5612857 or 9854135-(-138398)k=O O=Z end else if K<-784119+13025824 then K=J(396118+1802814,{v})V={K()}O={n(V)}K=p[o(931884+-898184)]else x[Z]=i K=x[Z]K=K and 15392523-(-908113)or 17366632-812615 end end else if K<-585239+14005565 then if K<135414+12740316 then Z=x[B[-294451+294453]]u=978952+-978791 k=Z*u Z=35132812122955-351078 O=k+Z k=35184372266085-177253 K=O%k x[B[-936128-(-936130)]]=K Z=138198-138197 k=x[B[-461892+461895]]O=k~=Z K=14441466-(-330248)else u=71095-71063 L=271874-271872 Z=x[B[-826473-(-826476)]]k=Z%u v=x[B[759724+-759720]]q=991754-991741 S=x[B[865530-865528]]a=x[B[-644563-(-644566)]]b=a-k a=-726159+726191 N=b/a G=q-N s=L^G t=S/s j=v(t)v=4295364499-397203 u=j%v j=779438-779436 v=j^k Z=u/v v=x[B[978993+-978989]]s=753220+-753219 L=326141-325885 S=Z%s s=912256+4294055040 t=S*s j=v(t)K=-389116+5604293 v=x[B[-235654+235658]]S=735426-669890 t=v(Z)u=j+t j=-508769-(-574305)v=u%j Z=nil t=u-v j=t/S u=nil S=481903-481647 q=-743532+743788 t=v%S s=v-t S=s/L L=-714229-(-714485)s=j%L k=nil G=j-s L=G/q G={t,S;s,L}t=nil x[B[-896333+896334]]=G j=nil L=nil s=nil S=nil v=nil end else if K<294904+13248130 then K=O and 11602734-(-437970)or-141869+16663815 else K=x[B[452467-452457]]Z=x[B[-631229-(-631240)]]k[K]=Z K=x[B[598809-598797]]Z={K(k)}O={n(Z)}K=p[o(-1014314+1048039)]end end end end else if K<920378+14448198 then if K<-79877+15348770 then if K<15310226-323710 then if K<14515954-(-89024)then if K<14931808-929234 then K=true x[B[785603-785602]]=K O={}K=p[o(162027-128341)]else K=-223773+9639323 end else K=16724816-887851 u=216503+-216351 Z=x[B[-315644+315647]]k=Z*u Z=-1026473-(-1026730)O=k%Z x[B[-278476+278479]]=O end else if K<14657907-(-469714)then k=o(623758-590051)O=o(84888+-51159)K=p[O]O=K(k)K=p[o(-10425+44137)]O={}else O={}I=P()a={}E=P()x[E]=a t=nil s=nil l=J(1458734-840200,{E,L;G,j})a=P()F=o(-7469-(-41165))x[a]=l S=nil l={}c={}D=nil x[I]=l A=o(166209+-132510)S=o(-107108-(-140822))j=h(j)l=p[A]v=nil q=nil R=o(291097-257410)w=x[I]Y={[F]=w;[R]=D}A=l(c,Y)K=p[o(338766+-305057)]b=nil u=A l=U(16676418-954793,{I;E,N,L,G;a})G=h(G)G=o(643108-609419)N=h(N)Z=l a=h(a)j=o(-436313+469998)E=h(E)I=h(I)L=h(L)q=6064077092969-(-692894)v=p[j]t=p[S]L=Z(G,q)s=u[L]Z=nil L=o(-399705+433429)L=t[L]S={L(t,s)}j=v(n(S))v=j()u=nil end end else if K<-298646+15637764 then if K<15410309-92251 then X=x[Z]K=X and-762071+12729416 or 11884118-(-53009)Q=X else l=744785+-744785 E=#b K=-178307+5619810 a=E==l end else if K<16171030-826279 then K=11398800-320748 else K=11820354-742302 end end end else if K<15495356-(-779910)then if K<-652062+16546485 then if K<1046369+14685036 then if K<113421+15262576 then t=nil v=h(v)Z=h(Z)s=nil E=h(E)N=nil G=h(G)b=nil q=nil K=5441453-(-206741)L=h(L)N=P()u=h(u)j=h(j)t=o(-630593+664311)u=nil S=h(S)j=p[t]a=nil t=o(774062+-740346)S=o(-342002-(-375720))v=j[t]j=P()Z=nil a=832412-832411 L=o(-147168+180859)x[j]=v G=P()t=p[S]s=o(-426373-(-460095))S=o(697729+-663999)b={}v=t[S]q={}S=p[s]s=o(-656259+689962)t=S[s]s=p[L]L=o(-6365+40067)S=s[L]s=118327+-118327 L=P()x[L]=s s=-191333-(-191335)x[G]=s s={}x[N]=q q=-181321-(-181321)E=352407-352151 l=E E=207529-207528 I=E E=-598719-(-598719)A=I<E E=a-I else Z=e[-257756+257758]K=x[B[792325-792324]]u=K K=u[Z]k=e[7009+-7008]K=K and-276925+14491954 or 5348099-(-533440)end else Z=x[B[-517964+517967]]u=425098+-425097 k=Z~=u K=k and 13081580-32026 or-888564+15660278 end else if K<655131+15263349 then S=not t u=u+j Z=u<=v Z=S and Z S=u>=v S=t and S Z=S or Z S=-575606+4588496 K=Z and S Z=-966884+14533312 K=K or Z else K=11099267-(-414843)b=o(-262109+295831)N=p[b]b=o(24454-(-9234))q=N[b]L=q end end else if K<17112400-622164 then if K<16983697-619884 then K=324704+15047022 else I=not l i=i+C O=i<=V O=I and O I=i>=V I=l and I O=I or O I=1645437-21473 K=O and I O=-208055+10234054 K=K or O end else if K<15843696-(-687975)then K=x[B[-949102-(-949109)]]K=K and 573429+2861169 or 257530-(-62869)else K=true K=455258+11705680 end end end end end end end K=#g return n(O)end,function(p,o)local n=u(o)local e=function(e,B,g,z)return K(p,{e,B;g;z},o,n)end return e end,function(p,o)local n=u(o)local e=function(...)return K(p,{...},o,n)end return e end,function(p,o)local n=u(o)local e=function(e,B)return K(p,{e,B},o,n)end return e end,function()Z=Z+(-807515-(-807516))k[Z]=-408812+408813 return Z end,{},function(p)k[p]=k[p]-(236072-236071)if 264155-264155==k[p]then k[p],x[p]=nil,nil end end,{},function(p,o)local n=u(o)local e=function(e,B,g)return K(p,{e,B,g},o,n)end return e end,function(p,o)local n=u(o)local e=function(e,B,g,z,O)return K(p,{e,B,g,z,O},o,n)end return e end,function(p)for o=-798828+798829,#p,982291+-982290 do k[p[o]]=(847995+-847994)+k[p[o]]end if e then local K=e(true)local n=g(K)n[o(180936+-147240)],n[o(851878+-818174)],n[o(-975649+1009342)]=p,v,function()return 549267+2026931 end return K else return B({},{[o(291768+-258064)]=v;[o(911026-877330)]=p;[o(406591+-372898)]=function()return 3126742-550544 end})end end,function(p)local o,K=471768-471767,p[168267+-168266]while K do k[K],o=k[K]-(148463-148462),o+(374677+-374676)if 362092-362092==k[K]then k[K],x[K]=nil,nil end K=p[o]end end,function(p,o)local n=u(o)local e=function()return K(p,{},o,n)end return e end,187678+-187678 return(j(5786360-(-50850),{}))(n(O))end)(getfenv and getfenv()or _ENV,unpack or table[o(-94973+128661)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local VALID_KEYS = {
+    "Draken",
+    "drakempogi",
+    "drakenontop"
+}
+
+local WHITELISTED_USERS = {
+    "Loneycat1113",
+    "Jhannabaltero15",
+    "Princeforsale1",
+    "OXEN_CANON",
+    "KaizeTheGreat32",
+    "scythe2464",
+    "cOOlkid923400",
+    "gamestyep25",
+    "Leonardd439",
+    "Pogi_mojelosea",
+    "HerMajesty_67",
+    "Kaizenn2ndAlt",
+}
+
+local function isWhitelisted(username)
+    for _, name in ipairs(WHITELISTED_USERS) do
+        if name:lower() == username:lower() then return true end
+    end
+    return false
+end
+
+local currentUser = game.Players.LocalPlayer.Name
+if not isWhitelisted(currentUser) then
+    local plr = game.Players.LocalPlayer
+
+    if plr.Character and plr.Character:FindFirstChild("HumanoidRootPart") then
+        plr.Character.HumanoidRootPart.Anchored = true
+    end
+
+    if plr.Character and plr.Character:FindFirstChild("Humanoid") then
+        plr.Character.Humanoid.Health = 0
+    end
+
+    local sg = Instance.new("ScreenGui")
+    sg.IgnoreGuiInset = true
+    sg.ResetOnSpawn = false
+    sg.Parent = game.CoreGui
+
+    local frame = Instance.new("Frame")
+    frame.Size = UDim2.new(1, 0, 1, 0)
+    frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    frame.BackgroundTransparency = 0
+    frame.Parent = sg
+
+    task.spawn(function()
+        local texts = {
+            "🖕🖕",
+            "GET OUT",
+            "LOSER ",
+            "BAWAL TANGA DITO!",
+            "DIKA NAKA WHITELIST TANGA!",
+            "BYE BYE",
+        }
+        for i = 1, 20 do
+            local label = Instance.new("TextLabel")
+            label.Size = UDim2.new(0, 300, 0, 50)
+            label.Position = UDim2.new(math.random(), -150, math.random(), -25)
+            label.BackgroundTransparency = 1
+            label.Text = texts[math.random(1, #texts)]
+            label.Font = Enum.Font.LuckiestGuy
+            label.TextSize = math.random(20, 45)
+            label.TextColor3 = Color3.fromRGB(math.random(150, 255), 0, 0)
+            label.Rotation = math.random(-45, 45)
+            label.ZIndex = 10
+            label.Parent = frame
+            task.wait(0.08)
+        end
+    end)
+
+    local bigMsg = Instance.new("TextLabel")
+    bigMsg.Size = UDim2.new(1, 0, 0, 100)
+    bigMsg.Position = UDim2.new(0, 0, 0.4, 0)
+    bigMsg.BackgroundTransparency = 1
+    bigMsg.Text = "YOU HAVE BEEN BANNED"
+    bigMsg.Font = Enum.Font.LuckiestGuy
+    bigMsg.TextSize = 40
+    bigMsg.TextColor3 = Color3.fromRGB(255, 0, 0)
+    bigMsg.ZIndex = 11
+    bigMsg.Parent = frame
+
+    task.spawn(function()
+        for i = 1, 6 do
+            frame.BackgroundColor3 = Color3.fromRGB(180, 0, 0)
+            task.wait(0.1)
+            frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+            task.wait(0.1)
+        end
+    end)
+
+    task.wait(2)
+
+    plr:Kick(
+        "\n" ..
+        "⛔ ACCESS DENIED ⛔\n" ..
+        "⠀\n" ..
+        "💀 YOU HAVE BEEN BANNED 💀\n" ..
+        "⠀\n" ..
+        "🔒 PRIMEJELO HUB IS PRIVATE\n" ..
+        "👑 ONLY CHOSEN ONES CAN ENTER\n" ..
+        "⠀\n" ..
+        "😂 BETTER LUCK NEXT TIME BRO\n" ..
+        "⠀\n" ..
+        "📱 TikTok: @fvck.you00"
+    )
+    return
+end
+
+local function createKeyGui()
+    local ScreenGui = Instance.new("ScreenGui")
+    ScreenGui.Name = "PrimeJelokeysystem"
+    ScreenGui.ResetOnSpawn = false
+    ScreenGui.DisplayOrder = 99999
+    ScreenGui.IgnoreGuiInset = true
+    ScreenGui.Parent = game.CoreGui
+
+    local BG = Instance.new("Frame")
+    BG.Size = UDim2.new(1, 0, 1, 0)
+    BG.Position = UDim2.new(0, 0, 0, 0)
+    BG.BackgroundColor3 = Color3.fromRGB(2, 0, 6)
+    BG.BorderSizePixel = 0
+    BG.Parent = ScreenGui
+
+    local BGGrad = Instance.new("UIGradient")
+    BGGrad.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(2, 0, 6)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(8, 0, 18)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(2, 0, 6)),
+    })
+    BGGrad.Rotation = 135
+    BGGrad.Parent = BG
+
+    local TopGlow = Instance.new("Frame")
+    TopGlow.Size = UDim2.new(1, 0, 0, 3)
+    TopGlow.Position = UDim2.new(0, 0, 0, 0)
+    TopGlow.BackgroundColor3 = Color3.fromRGB(180, 0, 255)
+    TopGlow.BorderSizePixel = 0
+    TopGlow.ZIndex = 3
+    TopGlow.Parent = BG
+
+    local TopGlowGrad = Instance.new("UIGradient")
+    TopGlowGrad.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(0,0,0)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(180,0,255)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(0,0,0)),
+    })
+    TopGlowGrad.Parent = TopGlow
+
+    local BotGlow = Instance.new("Frame")
+    BotGlow.Size = UDim2.new(1, 0, 0, 3)
+    BotGlow.Position = UDim2.new(0, 0, 1, -3)
+    BotGlow.BackgroundColor3 = Color3.fromRGB(180, 0, 255)
+    BotGlow.BorderSizePixel = 0
+    BotGlow.ZIndex = 3
+    BotGlow.Parent = BG
+
+    local BotGlowGrad = Instance.new("UIGradient")
+    BotGlowGrad.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(0,0,0)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(180,0,255)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(0,0,0)),
+    })
+    BotGlowGrad.Parent = BotGlow
+
+    task.spawn(function()
+        local chars = {"0","1","K","1","3","@","#","$","%","^","&","*","!","?","<",">","~","|"}
+        for col = 1, 45 do
+            task.spawn(function()
+                task.wait(math.random() * 3)
+                while ScreenGui and ScreenGui.Parent do
+                    local drop = Instance.new("TextLabel")
+                    drop.Size = UDim2.new(0, 16, 0, 16)
+                    drop.Position = UDim2.new(0, (col-1) * 24, 0, -20)
+                    drop.BackgroundTransparency = 1
+                    drop.Text = chars[math.random(1, #chars)]
+                    drop.Font = Enum.Font.Code
+                    drop.TextSize = 12
+                    drop.TextColor3 = Color3.fromRGB(100, 0, 160)
+                    drop.TextTransparency = 0.4
+                    drop.ZIndex = 2
+                    drop.Parent = BG
+                    local speed = math.random(2, 6) / 100
+                    local steps = math.random(25, 55)
+                    for s = 1, steps do
+                        if not drop.Parent then break end
+                        drop.Position = UDim2.new(0, (col-1)*24, 0, -20 + (s * 16))
+                        drop.Text = chars[math.random(1, #chars)]
+                        local fade = s / steps
+                        drop.TextColor3 = Color3.fromRGB(
+                            math.floor(60 + fade * 120),
+                            0,
+                            math.floor(120 + fade * 135)
+                        )
+                        drop.TextTransparency = 0.2 + fade * 0.5
+                        task.wait(speed)
+                    end
+                    pcall(function() drop:Destroy() end)
+                    task.wait(math.random() * 1.5)
+                end
+            end)
+        end
+    end)
+
+    task.spawn(function()
+        while ScreenGui and ScreenGui.Parent do
+            task.spawn(function()
+                local size = math.random(2, 6)
+                local particle = Instance.new("Frame")
+                particle.Size = UDim2.new(0, size, 0, size)
+                particle.Position = UDim2.new(math.random(), 0, 1, 0)
+                particle.BackgroundColor3 = Color3.fromHSV(0.75 + math.random()*0.1, 1, 1)
+                particle.BackgroundTransparency = math.random(2, 5) * 0.1
+                particle.BorderSizePixel = 0
+                particle.ZIndex = 2
+                local pc = Instance.new("UICorner")
+                pc.CornerRadius = UDim.new(1, 0)
+                pc.Parent = particle
+                particle.Parent = BG
+                local xDrift = (math.random() - 0.5) * 0.1
+                for i = 1, 60 do
+                    if not particle.Parent then break end
+                    particle.Position = UDim2.new(
+                        particle.Position.X.Scale + xDrift * 0.016,
+                        0,
+                        particle.Position.Y.Scale - 0.008,
+                        0
+                    )
+                    particle.BackgroundTransparency = particle.BackgroundTransparency + 0.015
+                    if particle.BackgroundTransparency >= 1 then break end
+                    task.wait(0.05)
+                end
+                pcall(function() particle:Destroy() end)
+            end)
+            task.wait(0.08)
+        end
+    end)
+
+    for i = 1, 60 do
+        local line = Instance.new("Frame")
+        line.Size = UDim2.new(1, 0, 0, 1)
+        line.Position = UDim2.new(0, 0, i/60, 0)
+        line.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+        line.BackgroundTransparency = 0.88
+        line.BorderSizePixel = 0
+        line.ZIndex = 4
+        line.Parent = BG
+    end
+
+    local Card = Instance.new("Frame")
+    Card.Size = UDim2.new(0, 620, 0, 460)
+    Card.Position = UDim2.new(0.5, -310, 0.5, -230)
+    Card.BackgroundColor3 = Color3.fromRGB(6, 0, 12)
+    Card.BorderSizePixel = 0
+    Card.ZIndex = 5
+    Card.Parent = ScreenGui
+
+    local CardCorner = Instance.new("UICorner")
+    CardCorner.CornerRadius = UDim.new(0, 18)
+    CardCorner.Parent = Card
+
+    local CardGrad = Instance.new("UIGradient")
+    CardGrad.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(12, 0, 22)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(6, 0, 12)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(12, 0, 22)),
+    })
+    CardGrad.Rotation = 135
+    CardGrad.Parent = Card
+
+    local CardStroke = Instance.new("UIStroke")
+    CardStroke.Color = Color3.fromRGB(180, 0, 255)
+    CardStroke.Thickness = 2.5
+    CardStroke.Parent = Card
+
+    local CardTopLine = Instance.new("Frame")
+    CardTopLine.Size = UDim2.new(0.6, 0, 0, 2)
+    CardTopLine.Position = UDim2.new(0.2, 0, 0, 0)
+    CardTopLine.BackgroundColor3 = Color3.fromRGB(220, 100, 255)
+    CardTopLine.BorderSizePixel = 0
+    CardTopLine.ZIndex = 6
+    CardTopLine.Parent = Card
+
+    local CardTopLineGrad = Instance.new("UIGradient")
+    CardTopLineGrad.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(0,0,0)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(220,100,255)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(0,0,0)),
+    })
+    CardTopLineGrad.Parent = CardTopLine
+
+    local VDivider = Instance.new("Frame")
+    VDivider.Size = UDim2.new(0, 1, 0.85, 0)
+    VDivider.Position = UDim2.new(0, 220, 0.075, 0)
+    VDivider.BackgroundColor3 = Color3.fromRGB(100, 0, 150)
+    VDivider.BorderSizePixel = 0
+    VDivider.ZIndex = 6
+    VDivider.Parent = Card
+
+    local VDividerGrad = Instance.new("UIGradient")
+    VDividerGrad.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(0,0,0)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(180,0,255)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(0,0,0)),
+    })
+    VDividerGrad.Rotation = 90
+    VDividerGrad.Parent = VDivider
+
+    local LeftPanel = Instance.new("Frame")
+    LeftPanel.Size = UDim2.new(0, 218, 1, 0)
+    LeftPanel.Position = UDim2.new(0, 0, 0, 0)
+    LeftPanel.BackgroundTransparency = 1
+    LeftPanel.ZIndex = 6
+    LeftPanel.Parent = Card
+
+    local LogoContainer = Instance.new("Frame")
+    LogoContainer.Size = UDim2.new(0, 160, 0, 160)
+    LogoContainer.Position = UDim2.new(0.5, -80, 0, 30)
+    LogoContainer.BackgroundColor3 = Color3.fromRGB(10, 0, 18)
+    LogoContainer.BorderSizePixel = 0
+    LogoContainer.ZIndex = 7
+    LogoContainer.Parent = LeftPanel
+
+    local LogoContainerCorner = Instance.new("UICorner")
+    LogoContainerCorner.CornerRadius = UDim.new(0, 12)
+    LogoContainerCorner.Parent = LogoContainer
+
+    local LogoContainerStroke = Instance.new("UIStroke")
+    LogoContainerStroke.Color = Color3.fromRGB(180, 0, 255)
+    LogoContainerStroke.Thickness = 2.5
+    LogoContainerStroke.Parent = LogoContainer
+
+    local Logo = Instance.new("ImageLabel")
+    Logo.Size = UDim2.new(1, 0, 1, 0)
+    Logo.Position = UDim2.new(0, 0, 0, 0)
+    Logo.BackgroundTransparency = 1
+    Logo.Image = "rbxthumb://type=Asset&id=97187973677968&w=420&h=420"
+    Logo.ScaleType = Enum.ScaleType.Fit
+    Logo.ZIndex = 8
+    Logo.Parent = LogoContainer
+
+    local K13Label = Instance.new("TextLabel")
+    K13Label.Size = UDim2.new(1, 0, 0, 30)
+    K13Label.Position = UDim2.new(0, 0, 0, 200)
+    K13Label.BackgroundTransparency = 1
+    K13Label.Text = "K13 ALWAYS ON TOP"
+    K13Label.Font = Enum.Font.LuckiestGuy
+    K13Label.TextSize = 17
+    K13Label.TextColor3 = Color3.fromRGB(255, 255, 255)
+    K13Label.ZIndex = 7
+    K13Label.Parent = LeftPanel
+
+    local DevLabel = Instance.new("TextLabel")
+    DevLabel.Size = UDim2.new(1, 0, 0, 20)
+    DevLabel.Position = UDim2.new(0, 0, 0, 235)
+    DevLabel.BackgroundTransparency = 1
+    DevLabel.Text = "MADE BY PRIME JELO WITH ❤"
+    DevLabel.Font = Enum.Font.LuckiestGuy
+    DevLabel.TextSize = 14
+    DevLabel.TextColor3 = Color3.fromRGB(200, 150, 255)
+    DevLabel.ZIndex = 7
+    DevLabel.Parent = LeftPanel
+
+    local VersionLabel = Instance.new("TextLabel")
+    VersionLabel.Size = UDim2.new(1, 0, 0, 16)
+    VersionLabel.Position = UDim2.new(0, 0, 0, 258)
+    VersionLabel.BackgroundTransparency = 1
+    VersionLabel.Text = "PRIVATE SCRIPT"
+    VersionLabel.Font = Enum.Font.LuckiestGuy
+    VersionLabel.TextSize = 11
+    VersionLabel.TextColor3 = Color3.fromRGB(80, 40, 110)
+    VersionLabel.ZIndex = 7
+    VersionLabel.Parent = LeftPanel
+    
+local AdditionalImageContainer = Instance.new("Frame")
+AdditionalImageContainer.Size = UDim2.new(0, 160, 0, 90) -- Adjust size as needed
+AdditionalImageContainer.Position = UDim2.new(0.5, -80, 0, 290) -- Position below VersionLabel
+AdditionalImageContainer.BackgroundColor3 = Color3.fromRGB(10, 0, 18)
+AdditionalImageContainer.BorderSizePixel = 0
+AdditionalImageContainer.ZIndex = 7
+AdditionalImageContainer.Parent = LeftPanel
+
+local AdditionalImageCorner = Instance.new("UICorner")
+AdditionalImageCorner.CornerRadius = UDim.new(0, 12)
+AdditionalImageCorner.Parent = AdditionalImageContainer
+
+local AdditionalImageStroke = Instance.new("UIStroke")
+AdditionalImageStroke.Color = Color3.fromRGB(180, 0, 255)
+AdditionalImageStroke.Thickness = 2.5
+AdditionalImageStroke.Parent = AdditionalImageContainer
+
+local AdditionalImage = Instance.new("ImageLabel")
+AdditionalImage.Size = UDim2.new(1, 0, 1, 0)
+AdditionalImage.Position = UDim2.new(0, 0, 0, 0)
+AdditionalImage.BackgroundTransparency = 1
+AdditionalImage.Image = "rbxthumb://type=Asset&id=101072769262555&w=420&h=420"
+AdditionalImage.ScaleType = Enum.ScaleType.Fit
+AdditionalImage.ZIndex = 8
+AdditionalImage.Parent = AdditionalImageContainer
+
+local AdditionalImageLabel = Instance.new("TextLabel")
+AdditionalImageLabel.Size = UDim2.new(1, 0, 0, 16)
+AdditionalImageLabel.Position = UDim2.new(0, 0, 0, 390)
+AdditionalImageLabel.BackgroundTransparency = 1
+AdditionalImageLabel.Text = "MUSCLE MASTERS"
+AdditionalImageLabel.Font = Enum.Font.LuckiestGuy
+AdditionalImageLabel.TextSize = 15
+AdditionalImageLabel.TextColor3 = Color3.fromRGB(80, 40, 110)
+AdditionalImageLabel.ZIndex = 7
+AdditionalImageLabel.Parent = LeftPanel
+
+
+    local RightPanel = Instance.new("Frame")
+    RightPanel.Size = UDim2.new(0, 378, 1, 0)
+    RightPanel.Position = UDim2.new(0, 230, 0, 0)
+    RightPanel.BackgroundTransparency = 1
+    RightPanel.ZIndex = 6
+    RightPanel.Parent = Card
+
+    local TitleFrame = Instance.new("Frame")
+    TitleFrame.Size = UDim2.new(1, -20, 0, 40)
+    TitleFrame.Position = UDim2.new(0, 10, 0, 25)
+    TitleFrame.BackgroundTransparency = 1
+    TitleFrame.ZIndex = 6
+    TitleFrame.Parent = RightPanel
+
+    local TitleShadow = Instance.new("TextLabel")
+    TitleShadow.Size = UDim2.new(1, 0, 1, 0)
+    TitleShadow.Position = UDim2.new(0, 3, 0, 3)
+    TitleShadow.BackgroundTransparency = 1
+    TitleShadow.Text = "JELO | KEY SYSTEM"
+    TitleShadow.Font = Enum.Font.LuckiestGuy
+    TitleShadow.TextSize = 26
+    TitleShadow.TextColor3 = Color3.fromRGB(50, 0, 80)
+    TitleShadow.ZIndex = 6
+    TitleShadow.Parent = TitleFrame
+
+    local Title = Instance.new("TextLabel")
+    Title.Size = UDim2.new(1, 0, 1, 0)
+    Title.BackgroundTransparency = 1
+    Title.Text = "JELO | KEY SYSTEM"
+    Title.Font = Enum.Font.LuckiestGuy
+    Title.TextSize = 24
+    Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+    Title.ZIndex = 7
+    Title.Parent = TitleFrame
+
+    task.spawn(function()
+        while ScreenGui and ScreenGui.Parent do
+            task.wait(math.random(2, 6))
+            for _ = 1, math.random(3, 5) do
+                pcall(function()
+                    Title.Position = UDim2.new(0, math.random(-4,4), 0, math.random(-2,2))
+                    Title.TextColor3 = Color3.fromRGB(220, 180, 255)
+                end)
+                task.wait(0.04)
+                pcall(function()
+                    Title.Position = UDim2.new(0, 0, 0, 0)
+                    Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+                end)
+                task.wait(0.04)
+            end
+        end
+    end)
+
+    local SubTitle = Instance.new("TextLabel")
+    SubTitle.Size = UDim2.new(1, -20, 0, 20)
+    SubTitle.Position = UDim2.new(0, 10, 0, 72)
+    SubTitle.BackgroundTransparency = 1
+    SubTitle.Text = ""
+    SubTitle.Font = Enum.Font.Code
+    SubTitle.TextSize = 12
+    SubTitle.TextColor3 = Color3.fromRGB(180, 120, 230)
+    SubTitle.TextXAlignment = Enum.TextXAlignment.Left
+    SubTitle.ZIndex = 6
+    SubTitle.Parent = RightPanel
+
+    task.spawn(function()
+        task.wait(0.5)
+        local msg = "ENTER YOUR KEY TO ACCESS PRIMEJELO HUB"
+        for i = 1, #msg do
+            if not SubTitle.Parent then break end
+            SubTitle.Text = string.sub(msg, 1, i)
+            task.wait(0.035)
+        end
+        while ScreenGui and ScreenGui.Parent do
+            task.wait(0.5)
+            if not SubTitle.Parent then break end
+            local cur = SubTitle.Text
+            if cur:sub(-1) == "." then
+                SubTitle.Text = string.sub(cur, 1, -2)
+            else
+                SubTitle.Text = cur .. "."
+            end
+        end
+    end)
+
+    local Divider = Instance.new("Frame")
+    Divider.Size = UDim2.new(0.92, 0, 0, 1)
+    Divider.Position = UDim2.new(0.04, 0, 0, 100)
+    Divider.BackgroundColor3 = Color3.fromRGB(100, 0, 150)
+    Divider.BorderSizePixel = 0
+    Divider.ZIndex = 6
+    Divider.Parent = RightPanel
+
+    local DivGrad = Instance.new("UIGradient")
+    DivGrad.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(0,0,0)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(180,0,255)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(0,0,0)),
+    })
+    DivGrad.Parent = Divider
+
+    local KeyLabel = Instance.new("TextLabel")
+    KeyLabel.Size = UDim2.new(0.92, 0, 0, 18)
+    KeyLabel.Position = UDim2.new(0.04, 0, 0, 110)
+    KeyLabel.BackgroundTransparency = 1
+    KeyLabel.Text = "ACCESS KEY"
+    KeyLabel.Font = Enum.Font.LuckiestGuy
+    KeyLabel.TextSize = 13
+    KeyLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    KeyLabel.TextXAlignment = Enum.TextXAlignment.Left
+    KeyLabel.ZIndex = 6
+    KeyLabel.Parent = RightPanel
+
+    local KeyBoxBG = Instance.new("Frame")
+    KeyBoxBG.Size = UDim2.new(0.92, 0, 0, 44)
+    KeyBoxBG.Position = UDim2.new(0.04, 0, 0, 130)
+    KeyBoxBG.BackgroundColor3 = Color3.fromRGB(10, 0, 20)
+    KeyBoxBG.BorderSizePixel = 0
+    KeyBoxBG.ZIndex = 6
+    KeyBoxBG.Parent = RightPanel
+
+    local KeyBoxCorner = Instance.new("UICorner")
+    KeyBoxCorner.CornerRadius = UDim.new(0, 8)
+    KeyBoxCorner.Parent = KeyBoxBG
+
+    local KeyBoxStroke = Instance.new("UIStroke")
+    KeyBoxStroke.Color = Color3.fromRGB(100, 0, 150)
+    KeyBoxStroke.Thickness = 1.5
+    KeyBoxStroke.Parent = KeyBoxBG
+
+    local KeyBox = Instance.new("TextBox")
+    KeyBox.Size = UDim2.new(1, -20, 1, 0)
+    KeyBox.Position = UDim2.new(0, 10, 0, 0)
+    KeyBox.BackgroundTransparency = 1
+    KeyBox.PlaceholderText = "ENTER KEY HERE..."
+    KeyBox.Text = ""
+    KeyBox.Font = Enum.Font.LuckiestGuy
+    KeyBox.TextSize = 15
+    KeyBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    KeyBox.PlaceholderColor3 = Color3.fromRGB(120, 80, 160)
+    KeyBox.ZIndex = 7
+    KeyBox.Parent = KeyBoxBG
+
+    KeyBox.Focused:Connect(function()
+        KeyBoxStroke.Color = Color3.fromRGB(200, 0, 255)
+        KeyBoxStroke.Thickness = 2
+    end)
+    KeyBox.FocusLost:Connect(function()
+        KeyBoxStroke.Color = Color3.fromRGB(100, 0, 150)
+        KeyBoxStroke.Thickness = 1.5
+    end)
+
+    local SubmitBtn = Instance.new("TextButton")
+    SubmitBtn.Size = UDim2.new(0.92, 0, 0, 44)
+    SubmitBtn.Position = UDim2.new(0.04, 0, 0, 185)
+    SubmitBtn.BackgroundColor3 = Color3.fromRGB(140, 0, 200)
+    SubmitBtn.BorderSizePixel = 0
+    SubmitBtn.Text = "SUBMIT KEY"
+    SubmitBtn.Font = Enum.Font.LuckiestGuy
+    SubmitBtn.TextSize = 18
+    SubmitBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    SubmitBtn.ZIndex = 6
+    SubmitBtn.Parent = RightPanel
+
+    local SubmitCorner = Instance.new("UICorner")
+    SubmitCorner.CornerRadius = UDim.new(0, 8)
+    SubmitCorner.Parent = SubmitBtn
+
+    local SubmitStroke = Instance.new("UIStroke")
+    SubmitStroke.Color = Color3.fromRGB(220, 0, 255)
+    SubmitStroke.Thickness = 2
+    SubmitStroke.Parent = SubmitBtn
+
+    SubmitBtn.MouseEnter:Connect(function()
+        SubmitBtn.BackgroundColor3 = Color3.fromRGB(180, 0, 240)
+        SubmitBtn.Text = "ACCESS JELO HUB"
+    end)
+    SubmitBtn.MouseLeave:Connect(function()
+        SubmitBtn.BackgroundColor3 = Color3.fromRGB(140, 0, 200)
+        SubmitBtn.Text = "SUBMIT KEY"
+    end)
+
+    local LoadBarLabel = Instance.new("TextLabel")
+    LoadBarLabel.Size = UDim2.new(0.92, 0, 0, 18)
+    LoadBarLabel.Position = UDim2.new(0.04, 0, 0, 240)
+    LoadBarLabel.BackgroundTransparency = 1
+    LoadBarLabel.Text = "LOADING..."
+    LoadBarLabel.Font = Enum.Font.LuckiestGuy
+    LoadBarLabel.TextSize = 13
+    LoadBarLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    LoadBarLabel.TextXAlignment = Enum.TextXAlignment.Left
+    LoadBarLabel.ZIndex = 6
+    LoadBarLabel.Parent = RightPanel
+
+    local LoadBarBG = Instance.new("Frame")
+    LoadBarBG.Size = UDim2.new(0.92, 0, 0, 8)
+    LoadBarBG.Position = UDim2.new(0.04, 0, 0, 260)
+    LoadBarBG.BackgroundColor3 = Color3.fromRGB(15, 0, 25)
+    LoadBarBG.BorderSizePixel = 0
+    LoadBarBG.ZIndex = 6
+    LoadBarBG.Parent = RightPanel
+
+    local LoadBarBGCorner = Instance.new("UICorner")
+    LoadBarBGCorner.CornerRadius = UDim.new(0, 4)
+    LoadBarBGCorner.Parent = LoadBarBG
+
+    local LoadBarBGStroke = Instance.new("UIStroke")
+    LoadBarBGStroke.Color = Color3.fromRGB(80, 0, 120)
+    LoadBarBGStroke.Thickness = 1
+    LoadBarBGStroke.Parent = LoadBarBG
+
+    local LoadBar = Instance.new("Frame")
+    LoadBar.Size = UDim2.new(0.22, 0, 1, 0)
+    LoadBar.BackgroundColor3 = Color3.fromRGB(180, 0, 255)
+    LoadBar.BorderSizePixel = 0
+    LoadBar.ZIndex = 7
+    LoadBar.Parent = LoadBarBG
+
+    local LoadBarCorner = Instance.new("UICorner")
+    LoadBarCorner.CornerRadius = UDim.new(0, 4)
+    LoadBarCorner.Parent = LoadBar
+
+    local LoadBarGrad = Instance.new("UIGradient")
+    LoadBarGrad.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(120, 0, 180)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(220, 100, 255)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(180, 0, 255)),
+    })
+    LoadBarGrad.Parent = LoadBar
+
+    local idleActive = true
+    task.spawn(function()
+        local dir = 1
+        local pos = 0
+        while ScreenGui and ScreenGui.Parent and idleActive do
+            pos = pos + dir * 0.025
+            if pos >= 0.78 then dir = -1 end
+            if pos <= 0 then dir = 1 end
+            pcall(function()
+                LoadBar.Position = UDim2.new(pos, 0, 0, 0)
+            end)
+            task.wait(0.03)
+        end
+    end)
+
+    local TikTokFollowLabel = Instance.new("TextLabel")
+    TikTokFollowLabel.Size = UDim2.new(0.92, 0, 0, 22)
+    TikTokFollowLabel.Position = UDim2.new(0.04, 0, 0, 280)
+    TikTokFollowLabel.BackgroundTransparency = 1
+    TikTokFollowLabel.Text = "FOLLOW ME ON TIKTOK!"
+    TikTokFollowLabel.Font = Enum.Font.LuckiestGuy
+    TikTokFollowLabel.TextSize = 16
+    TikTokFollowLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TikTokFollowLabel.TextXAlignment = Enum.TextXAlignment.Center
+    TikTokFollowLabel.ZIndex = 6
+    TikTokFollowLabel.Parent = RightPanel
+
+    local TikTokBtn = Instance.new("TextButton")
+    TikTokBtn.Size = UDim2.new(0.92, 0, 0, 46)
+    TikTokBtn.Position = UDim2.new(0.04, 0, 0, 308)
+    TikTokBtn.BackgroundColor3 = Color3.fromRGB(80, 0, 120)
+    TikTokBtn.BorderSizePixel = 0
+    TikTokBtn.Text = "TIKTOK.COM/@FVCK.YOU00"
+    TikTokBtn.Font = Enum.Font.LuckiestGuy
+    TikTokBtn.TextSize = 15
+    TikTokBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TikTokBtn.ZIndex = 6
+    TikTokBtn.Parent = RightPanel
+
+    local TikTokCorner = Instance.new("UICorner")
+    TikTokCorner.CornerRadius = UDim.new(0, 8)
+    TikTokCorner.Parent = TikTokBtn
+
+    local TikTokStroke = Instance.new("UIStroke")
+    TikTokStroke.Color = Color3.fromRGB(180, 0, 255)
+    TikTokStroke.Thickness = 2
+    TikTokStroke.Parent = TikTokBtn
+
+    TikTokBtn.MouseEnter:Connect(function()
+        TikTokBtn.BackgroundColor3 = Color3.fromRGB(120, 0, 160)
+    end)
+    TikTokBtn.MouseLeave:Connect(function()
+        TikTokBtn.BackgroundColor3 = Color3.fromRGB(80, 0, 120)
+    end)
+
+    TikTokBtn.MouseButton1Click:Connect(function()
+        pcall(function() setclipboard("https://www.tiktok.com/@fvck.you00") end)
+        TikTokBtn.Text = "FOLLOW ME! THANK YOU PRE!"
+        TikTokBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+        task.wait(2.5)
+        TikTokBtn.Text = "TIKTOK.COM/@FVCK.YOU00"
+        TikTokBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    end)
+
+    local StatusLabel = Instance.new("TextLabel")
+    StatusLabel.Size = UDim2.new(0.92, 0, 0, 22)
+    StatusLabel.Position = UDim2.new(0.04, 0, 0, 365)
+    StatusLabel.BackgroundTransparency = 1
+    StatusLabel.Text = ""
+    StatusLabel.Font = Enum.Font.LuckiestGuy
+    StatusLabel.TextSize = 13
+    StatusLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+    StatusLabel.ZIndex = 6
+    StatusLabel.Parent = RightPanel
+
+    task.spawn(function()
+        local hue = 0
+        while ScreenGui and ScreenGui.Parent do
+            hue = (hue + 0.003) % 1
+            pcall(function()
+                CardStroke.Color = Color3.fromHSV(hue, 1, 1)
+                LogoContainerStroke.Color = Color3.fromHSV(hue, 1, 1)
+                TikTokStroke.Color = Color3.fromHSV((hue + 0.5) % 1, 1, 1)
+                LoadBarGrad.Color = ColorSequence.new({
+                    ColorSequenceKeypoint.new(0, Color3.fromHSV((hue+0.1)%1, 1, 0.8)),
+                    ColorSequenceKeypoint.new(0.5, Color3.fromHSV(hue, 1, 1)),
+                    ColorSequenceKeypoint.new(1, Color3.fromHSV((hue+0.1)%1, 1, 0.8)),
+                })
+                TopGlowGrad.Color = ColorSequence.new({
+                    ColorSequenceKeypoint.new(0, Color3.fromRGB(0,0,0)),
+                    ColorSequenceKeypoint.new(0.5, Color3.fromHSV(hue,1,1)),
+                    ColorSequenceKeypoint.new(1, Color3.fromRGB(0,0,0)),
+                })
+                BotGlowGrad.Color = ColorSequence.new({
+                    ColorSequenceKeypoint.new(0, Color3.fromRGB(0,0,0)),
+                    ColorSequenceKeypoint.new(0.5, Color3.fromHSV((hue+0.5)%1,1,1)),
+                    ColorSequenceKeypoint.new(1, Color3.fromRGB(0,0,0)),
+                })
+            end)
+            task.wait(0.05)
+        end
+    end)
+
+    return ScreenGui, KeyBox, SubmitBtn, StatusLabel, LoadBar, idleActive
+end
+
+local keyGui, keyBox, submitBtn, statusLabel, loadBar, idleActive = createKeyGui()
+local verified = Instance.new("BindableEvent")
+
+submitBtn.MouseButton1Click:Connect(function()
+    local inputKey = keyBox.Text
+    local valid = false
+    for _, key in ipairs(VALID_KEYS) do
+        if inputKey == key then valid = true break end
+    end
+    if valid then
+        idleActive = false
+        statusLabel.TextColor3 = Color3.fromRGB(0, 255, 120)
+        statusLabel.Text = "ACCESS GRANTED! LOADING PRIMEJELO HUB.."
+        submitBtn.Active = false
+        submitBtn.Text = "LOADING..."
+        task.spawn(function()
+            loadBar.Position = UDim2.new(0, 0, 0, 0)
+            for i = 1, 100 do
+                if not loadBar.Parent then break end
+                loadBar.Size = UDim2.new(i/100, 0, 1, 0)
+                task.wait(0.015)
+            end
+            task.wait(0.4)
+            keyGui:Destroy()
+            verified:Fire()
+        end)
+    else
+        statusLabel.TextColor3 = Color3.fromRGB(255, 60, 60)
+        statusLabel.Text = "ACCESS DENIED! INVALID KEY."
+        task.spawn(function()
+            for _ = 1, 8 do
+                if not submitBtn.Parent then break end
+                submitBtn.Position = UDim2.new(0.04, math.random(-6, 6), 0, 185)
+                task.wait(0.04)
+            end
+            submitBtn.Position = UDim2.new(0.04, 0, 0, 185)
+        end)
+        keyBox.Text = ""
+    end
+end)
+
+verified.Event:Wait()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/officialyasuo06-lgtm/Haha/refs/heads/main/Lus"))()
