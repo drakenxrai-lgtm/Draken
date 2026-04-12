@@ -435,7 +435,7 @@ AdditionalImageLabel.Parent = LeftPanel
     TitleShadow.Size = UDim2.new(1, 0, 1, 0)
     TitleShadow.Position = UDim2.new(0, 3, 0, 3)
     TitleShadow.BackgroundTransparency = 1
-    TitleShadow.Text = "JELO | KEY SYSTEM"
+    TitleShadow.Text = "DRAKEN | KEY SYSTEM"
     TitleShadow.Font = Enum.Font.LuckiestGuy
     TitleShadow.TextSize = 26
     TitleShadow.TextColor3 = Color3.fromRGB(50, 0, 80)
@@ -445,7 +445,7 @@ AdditionalImageLabel.Parent = LeftPanel
     local Title = Instance.new("TextLabel")
     Title.Size = UDim2.new(1, 0, 1, 0)
     Title.BackgroundTransparency = 1
-    Title.Text = "JELO | KEY SYSTEM"
+    Title.Text = "DRAKEN | KEY SYSTEM"
     Title.Font = Enum.Font.LuckiestGuy
     Title.TextSize = 24
     Title.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -484,7 +484,7 @@ AdditionalImageLabel.Parent = LeftPanel
 
     task.spawn(function()
         task.wait(0.5)
-        local msg = "ENTER YOUR KEY TO ACCESS PRIMEJELO HUB"
+        local msg = "ENTER YOUR KEY TO ACCESS PRIMEDRAKEN HUB"
         for i = 1, #msg do
             if not SubTitle.Parent then break end
             SubTitle.Text = string.sub(msg, 1, i)
