@@ -8,7 +8,8 @@ local WHITELISTED_USERS = {
     "Leonardd439",
     "SHENKUNxDRAKEN", 
     "DRAKENxSHENKUN",
-}
+    " mp_tulok143",
+}1
 
 local function isWhitelisted(username)
     for _, name in ipairs(WHITELISTED_USERS) do
@@ -782,7 +783,3 @@ submitBtn.MouseButton1Click:Connect(function()
         keyBox.Text = ""
     end
 end)
-
-verified.Event:Wait()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/officialyasuo06-lgtm/Haha/refs/heads/main/Lus"))()
