@@ -23,7 +23,7 @@ local machineuse         = LocalPlayer:WaitForChild("Machineuse", 10)
 local machinesFolder     = workspace:WaitForChild("MachinesFolder", 10)
 
 -- ================= WINDOW =================
-local Window, WindowFrame = Library:AddWindow("💪 vincent | duling | MUSCLE MASTERS 💪", {
+local Window, WindowFrame = Library:AddWindow("💪 draken | private | MUSCLE MASTERS 💪", {
     title_bar = {
         Color3.fromRGB(0, 0, 0),
         Color3.fromRGB(180, 20, 20),
